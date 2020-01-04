@@ -12,6 +12,7 @@ spring:
     port: 5672
     username: wyn3000
     password: admin
+    
 server:
   port: 8101
   
